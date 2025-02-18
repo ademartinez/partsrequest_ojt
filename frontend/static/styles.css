@@ -1,0 +1,33 @@
+/* General Styles */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* Card Styling */
+.card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar */
+.navbar {
+    padding: 15px;
+}
+
+/* Buttons */
+.btn-primary, .btn-success {
+    width: 100%;
+}
+
+/* Form Fields */
+.form-control, .form-select {
+    border-radius: 5px;
+}
+
+/* Centered Form */
+.text-center {
+    text-align: center;
+}
